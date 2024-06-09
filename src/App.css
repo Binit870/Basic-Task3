@@ -5,7 +5,10 @@
 }
 
 .App-header {
-  background: url(./images/w-bg.jpg);
+  background-image: url("./images/weather.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +22,8 @@ form {
   margin: 20px 0;
 }
 
-input, button {
+input,
+button {
   padding: 10px;
   font-size: 1em;
 }
