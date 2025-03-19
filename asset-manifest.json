@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Basic-Task3/static/css/main.e30df2d6.css",
-    "main.js": "/Basic-Task3/static/js/main.19603a17.js",
+    "main.js": "/Basic-Task3/static/js/main.300470cc.js",
     "static/js/453.a490ba38.chunk.js": "/Basic-Task3/static/js/453.a490ba38.chunk.js",
     "static/media/weather.jpg": "/Basic-Task3/static/media/weather.264366f4c954577f8b8e.jpg",
     "static/media/snowy.jpg": "/Basic-Task3/static/media/snowy.032aa83e1dbf2730baee.jpg",
@@ -11,11 +11,11 @@
     "static/media/cloudy.jpg": "/Basic-Task3/static/media/cloudy.d79ee88474586646aa84.jpg",
     "index.html": "/Basic-Task3/index.html",
     "main.e30df2d6.css.map": "/Basic-Task3/static/css/main.e30df2d6.css.map",
-    "main.19603a17.js.map": "/Basic-Task3/static/js/main.19603a17.js.map",
+    "main.300470cc.js.map": "/Basic-Task3/static/js/main.300470cc.js.map",
     "453.a490ba38.chunk.js.map": "/Basic-Task3/static/js/453.a490ba38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e30df2d6.css",
-    "static/js/main.19603a17.js"
+    "static/js/main.300470cc.js"
   ]
 }
